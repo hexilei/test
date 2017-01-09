@@ -19,6 +19,13 @@ git add .
 git commit -m "" --this will delete the ignored file in the git repository
 git push
 
+5.add tag
+On local side: git tag tag_name
+git push original tag_name(Here this tag name should be exists on local)
+--list tags
+git tag --list
+
+
 
 
 
